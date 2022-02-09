@@ -1,0 +1,109 @@
+2022-02-09 14:48:14,516 ERROR 4748 nodejs.Template render error: (/Users/jimengbo/Desktop/learn/egg-example/app/view/index.tpl) [Line 1, Column 15]
+  unknown block tag: message
+  unknown block tag: message
+    at Object._prettifyError (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/lib.js:36:11)
+    at Template.render (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/environment.js:538:21)
+    at /Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/environment.js:366:27
+    at createTemplate (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/environment.js:315:9)
+    at handle (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/environment.js:327:11)
+    at /Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/environment.js:339:9
+    at next (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/lib.js:328:7)
+    at Object.asyncIter (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/lib.js:334:3)
+    at NunjucksEnvironment.getTemplate (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/environment.js:321:9)
+    at NunjucksEnvironment.render (/Users/jimengbo/Desktop/learn/egg-example/node_modules/nunjucks/src/environment.js:360:10)
+name: "Template render error"
+pid: 4748
+hostname: jimengbodeMacBook-Pro.local
+
+2022-02-09 14:58:39,311 ERROR 5353 [-/127.0.0.1/-/5032ms GET /list] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/jimengbo/Desktop/learn/egg-example/node_modules/urllib/lib/urllib.js:983:15)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5023,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 5353
+hostname: jimengbodeMacBook-Pro.local
+
+2022-02-09 14:59:11,451 ERROR 5353 [-/127.0.0.1/-/5006ms GET /list] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/jimengbo/Desktop/learn/egg-example/node_modules/urllib/lib/urllib.js:983:15)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5005,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 5353
+hostname: jimengbodeMacBook-Pro.local
+
+2022-02-09 15:06:07,272 ERROR 6057 [-/::1/-/7ms GET /news] nodejs.TypeError: ua.text is not a function
+    at /Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:4:44
+    at Array.some (<anonymous>)
+    at roboMiddleware (/Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:4:30)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+
+pid: 6057
+hostname: jimengbodeMacBook-Pro.local
+
+2022-02-09 15:06:26,103 ERROR 6390 [-/127.0.0.1/-/5ms GET /list] nodejs.TypeError: ua.text is not a function
+    at /Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:4:44
+    at Array.some (<anonymous>)
+    at roboMiddleware (/Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:4:30)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+
+pid: 6390
+hostname: jimengbodeMacBook-Pro.local
+
+2022-02-09 15:06:29,279 ERROR 6390 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: ua.text is not a function
+    at /Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:4:44
+    at Array.some (<anonymous>)
+    at roboMiddleware (/Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:4:30)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+
+pid: 6390
+hostname: jimengbodeMacBook-Pro.local
+
+2022-02-09 15:09:49,215 ERROR 6524 [-/127.0.0.1/-/7ms GET /] nodejs.TypeError: ua.text is not a function
+    at /Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:5:44
+    at Array.some (<anonymous>)
+    at roboMiddleware (/Users/jimengbo/Desktop/learn/egg-example/app/middleware/robot.js:5:30)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+
+pid: 6524
+hostname: jimengbodeMacBook-Pro.local
+

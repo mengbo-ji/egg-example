@@ -1,0 +1,28 @@
+{
+  "name": "egg-example",
+  "version": "1.0.0",
+  "description": "egg-example",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengbo-ji/egg-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengbo-ji/egg-example/issues"
+  },
+  "homepage": "https://github.com/mengbo-ji/egg-example#readme",
+  "dependencies": {
+    "egg": "^2.33.1",
+    "egg-view-nunjucks": "^2.3.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.17.0"
+  }
+}

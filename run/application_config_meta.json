@@ -1,0 +1,297 @@
+{
+  "keys": "/Users/jimengbo/Desktop/learn/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/jimengbo/Desktop/learn/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/jimengbo/Desktop/learn/egg-example/config/config.default.js"
+    },
+    "root": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/jimengbo/Desktop/learn/egg-example/config/config.default.js",
+    "serverUrl": "/Users/jimengbo/Desktop/learn/egg-example/config/config.default.js"
+  },
+  "middleware": "/Users/jimengbo/Desktop/learn/egg-example/config/config.default.js",
+  "robot": {
+    "ua": "/Users/jimengbo/Desktop/learn/egg-example/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "author": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "bugs": {
+      "url": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "homepage": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "moment": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/jimengbo/Desktop/learn/egg-example/node_modules/egg/config/config.default.js"
+}

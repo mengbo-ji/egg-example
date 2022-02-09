@@ -1,0 +1,123 @@
+2022-02-09 14:34:29,354 INFO 3977 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50130649ms at 2022-02-10 04:30:00.002
+2022-02-09 14:34:29,354 INFO 3977 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33930646ms at 2022-02-10 00:00:00.000
+2022-02-09 14:34:29,354 INFO 3977 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33931646ms at 2022-02-10 00:00:01.000
+2022-02-09 14:34:29,218 INFO 3978 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:34:29,218 INFO 3978 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:34:29,218 INFO 3978 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:38:16,630 INFO 4083 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:38:16,630 INFO 4083 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:38:16,630 INFO 4083 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:38:24,170 INFO 4104 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:38:24,171 INFO 4104 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:38:24,171 INFO 4104 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:43:00,575 INFO 4400 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49619428ms at 2022-02-10 04:30:00.003
+2022-02-09 14:43:00,575 INFO 4400 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33419425ms at 2022-02-10 00:00:00.000
+2022-02-09 14:43:00,576 INFO 4400 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33420424ms at 2022-02-10 00:00:01.000
+2022-02-09 14:43:00,457 INFO 4401 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:43:00,457 INFO 4401 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:43:00,457 INFO 4401 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:43:12,712 INFO 4424 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:43:12,712 INFO 4424 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:43:12,712 INFO 4424 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:44:50,995 INFO 4515 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:44:50,995 INFO 4515 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:44:50,995 INFO 4515 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:46:38,442 INFO 4577 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:46:38,442 INFO 4577 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:46:38,442 INFO 4577 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:46:42,317 INFO 4594 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:46:42,317 INFO 4594 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:46:42,317 INFO 4594 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:47:03,685 INFO 4653 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49376318ms at 2022-02-10 04:30:00.003
+2022-02-09 14:47:03,685 INFO 4653 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33176315ms at 2022-02-10 00:00:00.000
+2022-02-09 14:47:03,686 INFO 4653 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33177315ms at 2022-02-10 00:00:01.001
+2022-02-09 14:47:03,570 INFO 4654 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:47:03,570 INFO 4654 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:47:03,570 INFO 4654 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:47:19,366 INFO 4684 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:47:19,366 INFO 4684 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:47:19,366 INFO 4684 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:47:28,516 INFO 4710 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:47:28,516 INFO 4710 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:47:28,516 INFO 4710 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:48:10,252 INFO 4748 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:48:10,252 INFO 4748 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:48:10,252 INFO 4748 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:48:14,813 INFO 4766 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:48:14,813 INFO 4766 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:48:14,813 INFO 4766 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:48:41,827 INFO 4793 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:48:41,827 INFO 4793 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:48:41,827 INFO 4793 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:49:33,390 INFO 4844 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:49:33,390 INFO 4844 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:49:33,390 INFO 4844 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:50:30,029 INFO 4903 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:50:30,029 INFO 4903 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:50:30,029 INFO 4903 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:50:42,270 INFO 4932 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:50:42,270 INFO 4932 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:50:42,270 INFO 4932 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:51:35,465 INFO 4987 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:51:35,465 INFO 4987 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:51:35,465 INFO 4987 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:54:51,512 INFO 5073 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:54:51,512 INFO 5073 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:54:51,512 INFO 5073 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:55:03,176 INFO 5091 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:55:03,176 INFO 5091 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:55:03,176 INFO 5091 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:55:05,032 INFO 5098 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:55:05,032 INFO 5098 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:55:05,032 INFO 5098 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:55:10,879 INFO 5120 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:55:10,879 INFO 5120 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:55:10,879 INFO 5120 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:56:03,718 INFO 5139 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:56:03,718 INFO 5139 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:56:03,718 INFO 5139 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:56:10,080 INFO 5162 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:56:10,080 INFO 5162 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:56:10,080 INFO 5162 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:57:36,046 INFO 5271 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:57:36,046 INFO 5271 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:57:36,046 INFO 5271 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:57:55,209 INFO 5294 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:57:55,209 INFO 5294 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:57:55,209 INFO 5294 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:57:57,979 INFO 5307 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:57:57,979 INFO 5307 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:57:57,979 INFO 5307 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:58:10,455 INFO 5333 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:58:10,455 INFO 5333 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:58:10,455 INFO 5333 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 14:58:31,939 INFO 5353 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 14:58:31,939 INFO 5353 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 14:58:31,939 INFO 5353 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:06:00,395 INFO 6055 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48239607ms at 2022-02-10 04:30:00.002
+2022-02-09 15:06:00,396 INFO 6055 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32039605ms at 2022-02-10 00:00:00.001
+2022-02-09 15:06:00,396 INFO 6055 [Timer] /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32040604ms at 2022-02-10 00:00:01.000
+2022-02-09 15:06:00,261 INFO 6057 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:06:00,261 INFO 6057 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:06:00,261 INFO 6057 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:06:21,703 INFO 6390 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:06:21,703 INFO 6390 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:06:21,703 INFO 6390 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:08:31,153 INFO 6442 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:08:31,153 INFO 6442 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:08:31,153 INFO 6442 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:09:24,824 INFO 6479 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:09:24,824 INFO 6479 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:09:24,824 INFO 6479 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:09:44,996 INFO 6524 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:09:44,996 INFO 6524 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:09:44,996 INFO 6524 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:10:12,199 INFO 6538 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:10:12,199 INFO 6538 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:10:12,199 INFO 6538 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:11:40,962 INFO 6578 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:11:40,962 INFO 6578 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:11:40,962 INFO 6578 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-02-09 15:12:47,609 INFO 6623 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-02-09 15:12:47,609 INFO 6623 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-02-09 15:12:47,609 INFO 6623 [egg-schedule]: register schedule /Users/jimengbo/Desktop/learn/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
